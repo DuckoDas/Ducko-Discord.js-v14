@@ -2,5 +2,5 @@
 
 ## Requirements For This Project!
 ```
-npm i discord.js@latest signale mongoose
+npm i discord.js@latest chalk@4.1.0 mongoose
 ```
